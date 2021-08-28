@@ -1,0 +1,21 @@
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\bin\Debug\BTC_Documents.exe
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\bin\Debug\BTC_Documents.pdb
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\obj\Debug\ResolveAssemblyReference.cache
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.frmDocuments.resources
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.Properties.Resources.resources
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.csproj.GenerateResource.Cache
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.exe
+E:\Nour\C# Prog\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.pdb
+E:\Nour\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.exe
+E:\Nour\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.pdb
+E:\Nour\BTC_Documents\BTC_Documents\bin\Debug\BTC_Documents.exe
+E:\Nour\BTC_Documents\BTC_Documents\bin\Debug\BTC_Documents.pdb
+E:\Nour\BTC_Documents\BTC_Documents\obj\Debug\ResolveAssemblyReference.cache
+E:\Nour\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.frmDocuments.resources
+E:\Nour\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.Properties.Resources.resources
+E:\Nour\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.csproj.GenerateResource.Cache
+E:\Nour\VS 2008\Amberpoint\Express\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.exe
+E:\Nour\VS 2008\Amberpoint\Express\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.pdb
+E:\Nour\BTC_Documents\BTC_Documents\bin\Debug\Btc.dll
+C:\Users\ELROWAD\Desktop\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.exe
+C:\Users\ELROWAD\Desktop\BTC_Documents\BTC_Documents\obj\Debug\BTC_Documents.pdb
